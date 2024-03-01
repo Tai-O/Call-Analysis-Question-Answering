@@ -17,6 +17,9 @@ This application allows you to transcribe audio recordings and generate answers 
 
 
 ## Usage
+- ```bash
+    streamlit run app.py
+    ```
 - Upload a recording of a call in MP3 format.
 - Upload a CSV file containing the questions related to the call.
 - View the transcription of the audio and the corresponding questions.
