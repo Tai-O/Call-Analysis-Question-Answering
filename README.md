@@ -6,7 +6,7 @@ This application allows you to transcribe audio recordings and generate answers 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tai-O/Call-Analysis-Document-Answering.git
+   git clone https://github.com/Tai-O/Call-Analysis-Question-Answering.git
    '''
 
 2. Get Open AI API KEY
